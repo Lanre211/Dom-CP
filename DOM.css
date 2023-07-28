@@ -1,0 +1,99 @@
+.parent{
+    width: 1000px;
+    height: 550px;
+    background-color: rgba(22, 23, 40, 0.831);
+    margin: auto;
+
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 50px;
+    color: rgb(206, 199, 200);
+}
+ul{
+    display: flex;
+}
+a{
+    padding: 10px;
+    color: rgb(254, 253, 251);
+}
+.body{
+    height: 150px;
+    width: 800px;
+    background-color: rgb(131, 129, 129);
+    margin-left: 20px;
+
+}
+.secbdy{
+    height: 150px;
+    width: 800px;
+    background-color: rgb(131, 129, 129);
+margin-top: 50px;
+margin-left: 20px;
+
+}
+
+.imgcon{
+    width: 150px;
+    height: 150px;
+    background-color: black;
+}
+img{
+    width: 150px;
+    height: 150px;
+    
+}
+
+h4{
+    margin-left: 180px;
+    margin-top: -80px;
+
+}
+
+h4{
+    margin-left: 180px;
+    margin-top: -80px;
+
+}
+.plus {
+    margin-left: 450px;
+   position: relative; top:-40px;
+}
+.minus{
+    margin-left: 400px;
+    position: relative;top:-21px
+    
+}
+.count{
+    position: relative;left: 253px;bottom:-20px
+}
+.total{
+   margin-top: -50px ;
+   margin-left: 200px;
+}
+.Totalbox{
+    height: 40px;
+    width: 100px;
+    position: relative;top:-55px;left:300px;
+    border-style: double;
+
+}
+.figure{
+        margin-top: -90px;
+        margin-left: 345px;
+}
+
+ 
+
+#iconHeart{
+    cursor: pointer;
+    margin-left: 600px;
+    position: relative;top: -60px;
+}
+#iconHeart1{
+    cursor: pointer;
+    margin-left: 600px;
+    position: relative;top: -60px;
+}
+
